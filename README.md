@@ -15,7 +15,7 @@ From my testing, 3 by of VRAM is enough for most games. If you use a software re
   <br>
   <a href="https://shadps4.net/"><img src="https://github.com/shadps4-emu/shadPS4/blob/main/.github/shadps4.png" width="220"></a>
   <br>
-  <b>shadPS4</b>
+  <b>ps4-shadPS4</b>
   <br>
 </h1>
 
